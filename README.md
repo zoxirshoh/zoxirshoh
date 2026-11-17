@@ -6,7 +6,12 @@ I build web apps with **React** and I'm learning backend development with **Node
 - 🔭 Currently building with React, Redux Toolkit and Node.js
 - 🌱 Learning: deeper JavaScript, backend and API design, professional English
 - 🎯 Open to **internship and junior frontend / full-stack** opportunities (remote or on-site)
-- 📫 Reach me on Telegram: [@rxmnv_711](https://t.me/rxmnv_711)
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoxirshox)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zoxirshoh1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zoxirshoh)
 
 ### 🛠 Tech stack
 
