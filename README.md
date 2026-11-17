@@ -10,18 +10,18 @@ I build web apps with **React** and I'm learning backend development with **Node
 
 ### 🛠 Tech stack
 
-**Frontend:** HTML5 · CSS3 · JavaScript · React · Redux Toolkit · Tailwind CSS · Material UI · Vue (basics)
-**Backend:** Node.js · Express.js · MongoDB · Mongoose · REST APIs · Swagger
+**Frontend:** HTML5 · CSS3 · JavaScript · React · Redux Toolkit · Tailwind CSS · Material UI · Vue (basics)<br>
+**Backend:** Node.js · Express.js · MongoDB · Mongoose · REST APIs · Swagger<br>
 **Tools:** Git · GitHub · Vite · Vercel · Netlify
 
 ### 🚀 Featured projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**Propify**](https://github.com/zoxirshoh/Propify.uz) | Real-estate listings app: search & filters, favorites, mortgage calculator, dark mode | React, React Router, Vite |
-| [**Alif Shop**](https://github.com/zoxirshoh/Alif-shop) · [live](https://alif-shop-three.vercel.app) | E-commerce store: cart, quantities, favorites | React, Redux Toolkit |
-| [**Do'stlik Burger**](https://github.com/zoxirshoh/do-stlik-burger) · [live](https://do-stlik-burger.vercel.app) | Sales, expense and profit tracker for a local burger business | React, localStorage |
-| [**Safo Non**](https://github.com/zoxirshoh/Safo-non) · [live](https://safo-non.vercel.app) | Admin dashboard for a bakery: products, bakers, warehouse, shops, expenses | Vue 3, Vue Router |
+| [**Propify**](https://github.com/zoxirshoh/propify) | Real-estate listings app: search & filters, favorites, mortgage calculator, dark mode | React, React Router, Vite |
+| [**Alif Shop**](https://github.com/zoxirshoh/alif-shop) · [live](https://alif-shop-three.vercel.app) | E-commerce store: cart, quantities, favorites | React, Redux Toolkit |
+| [**Do'stlik Burger**](https://github.com/zoxirshoh/dostlik-burger) · [live](https://do-stlik-burger.vercel.app) | Sales, expense and profit tracker for a local burger business | React, localStorage |
+| [**Safo Non**](https://github.com/zoxirshoh/safo-non-dashboard) · [live](https://safo-non.vercel.app) | Admin dashboard for a bakery: products, bakers, warehouse, shops, expenses | Vue 3, Vue Router |
 
 ### 📊 Stats
 
